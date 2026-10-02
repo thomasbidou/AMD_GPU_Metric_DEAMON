@@ -124,3 +124,13 @@ pointer l'intégration sur `http://<machine>:8791/`.
   inventé).
 - `GET /health` renvoie toujours `200 {"status":"ok"}` tant que le processus
   tourne (indépendant du succès du dernier poll).
+
+## ⚠️ Disclaimer
+
+Ce programme a été développé **entièrement avec l'aide d'une IA** (agent
+Hermes / modèles de langage). Le code est fourni **tel quel, sans garantie** —
+vérifiez-le avant de l'exploiter en production.
+
+## Licence
+
+MIT.
